@@ -19,6 +19,12 @@ A Flutter-based admin panel for managing print jobs with Firebase integration. F
 ## Demo Video
 ![Demo Video](screenshots/demo.gif)
 
+## Project Demo
+
+https://github.com/user-attachments/assets/7cd6dd26-6de0-4bee-8139-a205bcdd1d19
+
+
+
 ## ✨ Key Features
 
 - 🔄 Real-time print job tracking and management
